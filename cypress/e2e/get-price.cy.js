@@ -2,13 +2,10 @@ describe("Verificare produse pe pagini", () => {
   it("Navighează pe URL-uri și extrage datele produselor", () => {
     // 1. Citește fișierul JSON cu link-uri
     const produse = [];
-    cy.fixture("linkuri-test.json")
+    cy.fixture("link-1.json")
       .then((pagini) => {
-        
-
         pagini.forEach((pagina) => {
           // 2. Navighează la pagină
-          cy.
           cy.visit(pagina);
 
           // 3. Găsește toate cardurile de pe pagina curentă
@@ -18,32 +15,38 @@ describe("Verificare produse pe pagini", () => {
               .find(".item-title")
               .then(($prod) => {
                 const numeProdus = $prod.text().trim();
-
+                let produs = { url: pagina, denumire: numeProdus };
                 // 5. Caută clasa .pret DOAR în interiorul cardului curent
-                cy.wrap($card)
-                  .find(".price")
-                  .then(($pret) => {
-                    const pretProdus = $pret.text().trim();
+                if ($card.find(".brand").length > 0) {
+                  cy.wrap($card)
+                    .find(".brand")
+                    .then(($brand) => {
+                      const brand = $brand.text().trim();
+                      produs.brand = brand;
 
-                    cy.wrap($card)
-                      .find(".brand")
-                      .then(($brand) => {
-                        const brand = $brand.text().trim();
+                      if ($card.find(".price").length > 0) {
+                        cy.wrap($card)
+                          .find(".price")
+                          .then(($price) => {
+                            const price = $price.text().trim();
+                            produs.price = price;
 
-                        // Afișează datele în consolă pentru fiecare produs de pe pagină
-                        cy.log(
-                          `[Card ${index + 1}] Produs: ${numeProdus} Producator: ${brand} | Preț: ${pretProdus}`,
-                        );
-
-                        produse.push({
-                            pagina: pagina,
-                            denumire: numeProdus,
-                            producator: brand,
-                            pret:pretProdus
-                        })
-
-                      });
-                  });
+                            produse.push(produs);
+                            // produse.push({
+                            //   pagina: pagina,
+                            //   denumire: numeProdus,
+                            //   producator: brand,
+                            //   pret: pretProdus,
+                            //   img: img,
+                            // });
+                          });
+                      } else {
+                        produse.push(produs);
+                      }
+                    });
+                } else {
+                  produse.push(produs);
+                }
               });
           });
         });
