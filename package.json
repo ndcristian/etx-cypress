@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.0.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
   }
 }

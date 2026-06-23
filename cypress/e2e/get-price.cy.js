@@ -8,6 +8,7 @@ describe("Verificare produse pe pagini", () => {
 
         pagini.forEach((pagina) => {
           // 2. Navighează la pagină
+          cy.
           cy.visit(pagina);
 
           // 3. Găsește toate cardurile de pe pagina curentă
@@ -35,6 +36,7 @@ describe("Verificare produse pe pagini", () => {
                         );
 
                         produse.push({
+                            pagina: pagina,
                             denumire: numeProdus,
                             producator: brand,
                             pret:pretProdus
