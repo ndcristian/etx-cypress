@@ -1,509 +1,946 @@
 [
   {
-    "url": "https://comenzi.farmaciatei.ro/medicamente-otc/afectiuni-bucale/afte-bucale/",
-    "denumire": "Dentosept, 0,91 g/ml concentrat pentru soluție bucofaringiană,...",
-    "brand": "PLANTEXTRAKT",
-    "price": "35,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Hifas Detox, 60 capsule, Hifas da Terra",
+    "brand": "HIFAS DA TERRA",
+    "price": "212,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/medicamente-otc/afectiuni-bucale/afte-bucale/",
-    "denumire": "Dentinox Gel N, 10 g, Dentinox Gesellschaft",
-    "brand": "DENTINOX GESELLSCHAFT",
-    "price": "27,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Hifas Detox, flacon cu 60 capsule, Hifas da Terra",
+    "brand": "HIFAS DA TERRA",
+    "price": "225,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/medicamente-otc/afectiuni-bucale/afte-bucale/",
-    "denumire": "Solutie contra aftelor bucale, 2,425 mg/21,34 mg/ml,...",
-    "brand": "MEDUMAN VISEU",
-    "price": "19,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Nuca Neagra, 60 capsule, Niavis",
+    "brand": "NIAVIS",
+    "price": "31,50 LEI25,20 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/medicamente-otc/afectiuni-bucale/afte-bucale/",
-    "denumire": "Kamistad, 20 mg + 185 mg/g gel, 10 g, Stada",
-    "brand": "STADA",
-    "price": "11,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Chlorella, 1000 tablete, OstroVit",
+    "brand": "OSTROVIT",
+    "price": "73,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic spray, 30 ml, Favisan",
-    "brand": "FAVISAN",
-    "price": "68,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Plantahepa, 60 capsule, Vitaceutics",
+    "brand": "VITACEUTICS",
+    "price": "94,00 LEI79,90 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic, 30 bucati, Biome",
-    "brand": "BIOME",
-    "price": "35,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Otet din cidru de mere, 60 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "30,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic, 400ug+, 30 capsule, Biome",
-    "brand": "BIOME",
-    "price": "45,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Chlorella, 500 mg, 60 comprimate, Cosmo Pharm",
+    "brand": "COSMOPHARM",
+    "price": "31,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic lipozomal, 1000 mcg, 30 capsule, Remedia",
-    "brand": "LABORATOARELE REMEDIA",
-    "price": "31,00 LEI24,80 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Folat organic, 400 mcg, 60 capsule, Vitaking",
-    "brand": "VITAKING",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Lymph detox, 60 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
     "price": "39,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic, 30 capsule, Pro Natura",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Hematodetox, 60 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "39,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Suc organic cu pulpa din frunze de Aloe Vera, 1000...",
+    "brand": "ROTTA NATURA",
+    "price": "64,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Detoxi Complet, 30 capsule vegetale, Alevia",
+    "brand": "ALEVIA",
+    "price": "34,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Soc, 30 capsule, Pro Natura",
     "brand": "PRO NATURA",
-    "price": "8,00 LEI"
+    "price": "10,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Multivitamine Pregnancy, 60 capsule, Viridian",
-    "brand": "VIRIDIAN",
-    "price": "107,50 LEI86,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Citruvital Bio, 50 ml, Holistic One",
+    "brand": "HOLISTIC ONE",
+    "price": "82,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Methylfolat, 60 capsule, GNC",
-    "brand": "GNC",
-    "price": "255,00 LEI191,25 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Activmod, 50 comprimate, Elidor",
+    "brand": "ELIDOR",
+    "price": "28,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Complex de vitamine Pregnant, 90 tablete, Vitaxynergy",
-    "brand": "VITAXYNERGY",
-    "price": "104,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Extract de papadie, 120 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "56,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femibion 2, 28 comprimate+28 capsule, Procter&Gamble",
-    "brand": "PROCTER & GAMBLE",
-    "price": "91,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femibion 1, 28 comprimate, Procter&Gamble",
-    "brand": "PROCTER & GAMBLE",
-    "price": "82,50 LEI71,78 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Pregna Bleu, 30 capsule, Bleu Pharma",
-    "brand": "BLEU PHARMA",
-    "price": "130,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femosun Magnefol, 30 capsule vegetale, Sun Wave Pharma",
-    "brand": "SUN WAVE PHARMA",
-    "price": "57,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "D&B Contractions, 30 tablete, Gricar",
-    "brand": "D&B TOTAL",
-    "price": "103,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Pregnacare new mum, 56 tablete, Vitabiotics",
-    "brand": "VITABIOTICS",
-    "price": "86,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Methyl Folate Jarrow Formulas, 400 mcg, 60 capsule...",
-    "brand": "SECOM",
-    "price": "77,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic, 1 mg, 100 comprimate, Remedia",
-    "brand": "LABORATOARELE REMEDIA",
-    "price": "19,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femmes Enceintes, 30 capsule moi, Manhae",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Bautura cu aroma de coacaz negru Draineur Expert,...",
     "brand": "MANHAE",
-    "price": "67,00 LEI54,94 LEI"
+    "price": "61,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic Quatrefolic, 800mcg, 30 capsule, Cosmopharm",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "NaturSlim HydroShape, 60 capsule, Naturpharma",
+    "brand": "NATURPHARMA",
+    "price": "60,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Drenaj Apielixir, 30 fiole, Albina Carpatina",
+    "brand": "ALBINA CARPATINA",
+    "price": "148,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Detox Apielixir, 30 fiole, Albina Carpatina",
+    "brand": "ALBINA CARPATINA",
+    "price": "160,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Drainaflore detoxifiere bio, 20 fiole x 15 ml, SuperDiet",
+    "brand": "SUPERDIET",
+    "price": "119,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Seva Bio pura de mesteacan, 500 ml, Santarome",
+    "brand": "SANTAROME",
+    "price": "99,50 LEI89,55 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Hemodetox, 30 capsule vegetale, Cosmopharm",
     "brand": "COSMOPHARM",
-    "price": "42,00 LEI"
+    "price": "28,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Complex de multivitamine PreMama Duo, 30 comprimate...",
-    "brand": "ALKALOID",
-    "price": "74,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Apple Cider Vinegar Justins, 30 jeleuri, Justin Pharma",
+    "brand": "JUSTIN PHARMA",
+    "price": "28,00 LEI23,80 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic, 1000 mcg, 100 tablete, GNC",
-    "brand": "GNC",
-    "price": "79,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Ellova pulbere orodispersabila, 30 stickuri, Bionika",
-    "brand": "BIONIKA",
-    "price": "95,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic, 400 mcg, 100 tablete, GNC",
-    "brand": "GNC",
-    "price": "69,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Women's Formula Prenatala cu DHA si Fier, 90 capsule,...",
-    "brand": "GNC",
-    "price": "289,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic (5-MTHP), 400 mcg, 120 capsule, G&G",
-    "brand": "G&G FOOD SUPPLIES LTD.",
-    "price": "61,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic 800 mcg, 250 capsule, Swanson",
-    "brand": "SWANSON HEALTH USA",
-    "price": "49,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic Folate, 1000 ug, 60 tablete, Solgar",
-    "brand": "SOLGAR",
-    "price": "145,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Emetofit Mami Si Bebe, D99, 30 comprimate, Fares",
-    "brand": "FARES",
-    "price": "21,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Natalvit Profolic, 60 comprimate, Hyllan",
-    "brand": "HYLLAN PHARMA",
-    "price": "79,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Oligobs Prenatal Omega 3, 30 comprimate + 30 capsule,...",
-    "brand": "LABORATOIRE CCD",
-    "price": "74,50 LEI63,33 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic 800 mcg + Vitamina B12 1000 mcg, 60 capsule,...",
-    "brand": "BRONSON LABORATORIES",
-    "price": "57,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Women`s Prenatal Formula cu Fier, 120 tablete, GNC",
-    "brand": "GNC",
-    "price": "210,00 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic 800 mcg Solaray, 30 capsule, Secom",
-    "brand": "SECOM",
-    "price": "26,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Ulei din ficat de cod Pure Mom and Baby, 250 ml, Moller's",
-    "brand": "MOLLER'S",
-    "price": "81,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Navatac gyno, 30 comprimate, Meditrina Pharmaceuticals",
-    "brand": "MEDITRINA",
-    "price": "57,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Elevit 1, 30 comprimate, Bayer",
-    "brand": "BAYER",
-    "price": "78,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Elevit 2, 30 capsule, Bayer",
-    "brand": "BAYER",
-    "price": "91,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic 1mg, 100 tablete, Jamieson",
-    "brand": "JAMIESON",
-    "price": "41,50 LEI"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid Folic Folacin, 800 mcg, 100 tablete, Solgar",
-    "brand": "SOLGAR",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Detox limfatic, 90 capsule, Steaua Divina",
+    "brand": "STEAUA DIVINA",
     "price": "47,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Ogestan, 30 capsule, Biessen Pharma",
-    "brand": "BIESSEN PHARMA",
-    "price": "61,00 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Dandelion Root, 1500 mg, 120 capsule, Bronson Laboratories",
+    "brand": "BRONSON LABORATORIES",
+    "price": "83,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Natalvit IQ, 30 comprimate filmate + 30 capsule gelatinoase...",
-    "brand": "HYLLAN PHARMA",
-    "price": "87,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Ulei de ricin presat la rece, 50 ml, Herbavit",
+    "brand": "HERBAVIT",
+    "price": "5,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Pregnacare, 30 tablete, Vitabiotics",
-    "brand": "VITABIOTICS",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Ulei de ricin presat la rece Herbal Sana, 250 ml,...",
+    "brand": "HERBAVIT",
+    "price": "16,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Ulei de ricin presat la rece, 100 ml, Herbavit",
+    "brand": "HERBAVIT",
+    "price": "10,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Turmeric si Ginger, 1950 mg, 60 capsule, Bronson Laboratories",
+    "brand": "BRONSON LABORATORIES",
+    "price": "75,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Extract de papadie, 60 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "34,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Papadie extract, 30 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "23,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Inulina, 30 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "18,00 LEI14,94 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Cicoare extract, 60 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "31,00 LEI25,73 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Cicoare extract, 30 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "21,50 LEI17,85 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Brusture extract, 60 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "30,00 LEI24,90 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Brusture extract, 30 capsule, AdNatura",
+    "brand": "ADNATURA",
+    "price": "20,50 LEI17,02 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Herbal Detox, 30 capsule, Doza de Sanatate",
+    "brand": "DOZA DE SANATATE",
+    "price": "56,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Zerotoxin Aloevera, 30 capsule, Doza de Sanatate",
+    "brand": "DOZA DE SANATATE",
+    "price": "38,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Chlorella Bio, 180 tablete, Rawboost",
+    "brand": "RAWBOOST",
     "price": "34,50 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Natalvit, 60 comprimate filmate, Hyllan",
-    "brand": "HYLLAN PHARMA",
-    "price": "105,50 LEI"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Aloe Magic 7 Digest, 500 ml, Bio Elemente",
+    "brand": "VERACETICS",
+    "price": "63,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femibion 2 sarcina si alaptare, 56 comprimate + 56...",
-    "brand": "DR REDDYS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Buon Aloe Vera Extra, 1000 ml, Equilibra",
+    "brand": "EQUILIBRA",
+    "price": "126,00 LEI107,10 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Aleract, 30 tablete, Lo.Li. Pharma",
-    "brand": "LO.LI. PHARMA"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Buon Aloe Vera Extra, 500 ml, Equilibra",
+    "brand": "EQUILIBRA",
+    "price": "67,00 LEI56,95 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic Folate 400 ug, 50 tablete, Solgar",
-    "brand": "SOLGAR"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Radacina de papadie Herbal Plus, 550 mg, 100 capsule,...",
+    "brand": "GNC",
+    "price": "165,00 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femosun, 30 capsule moi, Sun Wave Pharma",
-    "brand": "SUN WAVE PHARMA"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Chitomar, 60 capsule, Marnys",
+    "brand": "MARNYS",
+    "price": "64,50 LEI58,05 LEI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Jeleuri cu vitamine si minerale Multivitamin Prenatal,...",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Nutridiur bustine, 20 plicuri, Nutrileya",
+    "brand": "NUTRILEYA",
+    "price": "47,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Pachet Cicoare 60 capsule + Detox Suplu 60 capsule...",
+    "brand": "HERBAGETICA",
+    "price": "59,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Clorofila ionica concentrata lichida 6000 mg, aroma...",
+    "brand": "TRACE MINERALS",
+    "price": "193,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Colon Detox Colonox, 30 capsule, Cosmopharm",
+    "brand": "COSMOPHARM",
+    "price": "41,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Suc bio de mesteacan, 200 ml, Santarome",
+    "brand": "SANTAROME",
+    "price": "68,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Limfanox Drenaj Detox Total Cleanse, 30 capsule, Cosmopharm",
+    "brand": "COSMOPHARM",
+    "price": "39,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Argila verde activa ventilata Argital, 500g, Pronat",
+    "brand": "PRONAT",
+    "price": "29,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Shot concentrat detoxifiant cu anghinare, 7 x 10 ml,...",
+    "brand": "GERLINEA",
+    "price": "43,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Supliment cu clorofila Trazamin Clordetox, 20 fiole,...",
+    "brand": "MARNYS",
+    "price": "94,50 LEI85,05 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Amestec detoxifiant, 250 g, Econatur",
+    "brand": "ECONATUR",
+    "price": "24,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Zeolit Spectrum, 100 capsule, Novo Biomedics",
+    "brand": "NOVO BIOMEDICS",
+    "price": "121,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Ventrilica, 60 capsule, Hypericum",
+    "brand": "HYPERICUM IMPEX SRL",
+    "price": "29,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Chlorella tablete ecologice, 125 g, Niavis",
+    "brand": "NIAVIS",
+    "price": "39,50 LEI31,60 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Limfatic-Dren Life, 120 capsule, Bionovativ",
+    "brand": "BIONOVATIV",
+    "price": "85,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Actilege Digestion Plus Bio, 200 ml, Laboratoires...",
+    "brand": "LABORATOIRES DIETAROMA",
+    "price": "110,50 LEI88,40 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/",
+    "denumire": "Drain Acid, 60 capsule, Laboratoires Dietaroma",
+    "brand": "LABORATOIRES DIETAROMA",
+    "price": "90,50 LEI76,93 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Colondren, 60 capsule, Bionovativ",
+    "brand": "BIONOVATIV",
+    "price": "37,00 LEI33,30 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Green detox eco, 120 tablete, Republica Bio",
+    "brand": "REPUBLICA BIO",
+    "price": "99,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella bio, 400 mg, 300 tablete, Republica Bio",
+    "brand": "REPUBLICA BIO",
+    "price": "103,50 LEI84,87 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detoxifierea organismului, M116, 28 plicuri, Fares",
+    "brand": "FARES",
+    "price": "72,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detox Bio, 20 fiole x 10 ml, Santarome",
+    "brand": "SANTAROME",
+    "price": "93,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Drain Ideal Bio, 20 fiole, Laboratoires Dietaroma",
+    "brand": "LABORATOIRES DIETAROMA",
+    "price": "135,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Solutie extractiva de ananas, 200 ml, Favisan",
+    "brand": "FAVISAN",
+    "price": "33,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Colon Hyperdetox, 7 plicuri, Vitamunda",
+    "brand": "PRIOTECH",
+    "price": "290,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella, 500 mg, 300 tablete, Phyto Biocare",
+    "brand": "PHYTO BIOCARE",
+    "price": "46,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella pulbere, 200 g, Phyto Biocare",
+    "brand": "PHYTO BIOCARE",
+    "price": "44,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Plasturi detoxifianti pentru talpi, 10 bucati, Kiyome...",
+    "brand": "KIYOME KINOKY",
+    "price": "18,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detox Activ, 60 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "30,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Seva de mesteacan, 60 capsule, Hypericum",
+    "brand": "HYPERICUM IMPEX SRL",
+    "price": "36,00 LEI32,40 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Depurex, 40 comprimate, Elidor",
+    "brand": "ELIDOR",
+    "price": "32,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella ecologica, 500 tablete, RawBoost",
+    "brand": "RAWBOOST",
+    "price": "69,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Neem, 60 capsule, Herba Ayurvedica",
+    "brand": "HERBA AYURVEDICA",
+    "price": "36,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Spirulina + Orz verde, 30 comprimate, BioSunLine",
+    "brand": "BIOSUNLINE",
+    "price": "17,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Brusture, 60 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "17,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Bio Spirulina, 60 capsule, Zenyth",
+    "brand": "ZENYTH PHARMACEUTICALS",
+    "price": "43,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Bio Chlorella, 60 capsule, Zenyth",
+    "brand": "ZENYTH PHARMACEUTICALS",
+    "price": "47,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella, 120 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "47,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella, 60 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "26,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorofresh Mint Liquid Nature's Way, 480 ml, Secom",
+    "brand": "SECOM",
+    "price": "68,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorofresh Nature's Way, 90 capsule, Secom",
+    "brand": "SECOM",
+    "price": "90,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "BioGreens SuperFood Organic cu germeni, alge si lastari,...",
+    "brand": "ZENYTH PHARMACEUTICALS",
+    "price": "96,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila sub forma de bulgarasi, 500 g, Algo",
+    "brand": "ALGO",
+    "price": "35,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila sub forma de bulgarasi, 1 kg, Algo",
+    "brand": "ALGO",
+    "price": "52,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Colon Help Detox Forte, 240 g, Zenyth",
+    "brand": "ZENYTH PHARMACEUTICALS",
+    "price": "58,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila, 60 capsule, Steaua Divina",
+    "brand": "STEAUA DIVINA",
+    "price": "28,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Gel natural de Aloe Vera, 500 ml, Remedia",
+    "brand": "LABORATOARELE REMEDIA",
+    "price": "36,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella Micro-algae 410mg Nature's Way, 100 capsule,...",
+    "brand": "SECOM",
+    "price": "66,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Cicoare extract, 30 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "14,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Antitox, 40 tablete, Plantavorel",
+    "brand": "PLANTAVOREL SA",
+    "price": "54,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Ursomax, 40 comprimate, Elidor",
+    "brand": "ELIDOR",
+    "price": "32,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detox Activ, 120 capsule, Herbagetica",
+    "brand": "HERBAGETICA",
+    "price": "56,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Urzica, 70 capsule, Favisan",
+    "brand": "FAVISAN",
+    "price": "33,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Brusture, 40 capsule, Favisan",
+    "brand": "FAVISAN",
+    "price": "20,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Ceai pentru detoxifiere, 50 g, AdNatura",
+    "brand": "ADNATURA",
+    "price": "6,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Mango African, 60 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "14,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Total Cleanse Uric Acid Solaray, 60 capsule, Secom",
+    "brand": "SECOM",
+    "price": "166,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detoxifiant cu Ganoderma, P127, 60 capsule, Fares",
+    "brand": "FARES",
+    "price": "51,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila sub forma de bulgarasi, 200 g, Algo",
+    "brand": "ALGO",
+    "price": "18,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Yucca, 30 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "25,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Complex detoxifiant, 40 comprimate, Hofigal",
+    "brand": "HOFIGAL",
+    "price": "14,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Brusture, 30 capsule, Parapharm",
+    "brand": "PARAPHARM",
+    "price": "17,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Depurin, 40 comprimate, Hofigal",
+    "brand": "HOFIGAL",
+    "price": "12,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Papadie, 30 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "10,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila granule, 100 g, Favisan",
+    "brand": "FAVISAN",
+    "price": "18,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Argila, 30 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "10,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Brusture, 30 capsule, Pro Natura",
+    "brand": "PRO NATURA",
+    "price": "10,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Gel natural de Aloe Vera, 1000 ml, Remedia",
+    "brand": "LABORATOARELE REMEDIA",
+    "price": "61,00 LEI48,80 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detoxifiant, 60 comprimate, Dacia Plant",
+    "brand": "DACIA PLANT",
+    "price": "26,50 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Margusa, 120 tablete, Ayurmed",
+    "brand": "AYURMED",
+    "price": "55,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Margusa, 60 tablete, Ayurmed",
+    "brand": "AYURMED",
+    "price": "32,00 LEI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Inulina, 60 capsule, AdNatura",
+    "brand": "ADNATURA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Favidren Limf, 200 ml, Favisan",
+    "brand": "FAVISAN"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detoxifiant cu Ganoderma + Iod Natural P137, 60 capsule,...",
+    "brand": "FARES"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Spirulina + Chlorella tablete ecologice, 125 g, Niavis",
+    "brand": "NIAVIS"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Detoximed, 90 capsule, Inovera",
+    "brand": "INOVERA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,2",
+    "denumire": "Chlorella, 500 mg, 90 comprimate, Cosmo Pharm",
+    "brand": "COSMOPHARM"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Age Management Detox, 30 capsule vegetale gastrorezistente,...",
+    "brand": "AC HELCOR"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Clorofila cu aroma de coacaze, 60 tablete gumate,...",
+    "brand": "TRACE MINERALS"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Chlorella bio, 500 mg, 200 tablete, Maya Gold",
+    "brand": "MAYA GOLD"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Gotil, 20 fiole buvabile, Novadiet",
+    "brand": "NOVADIET"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Plasturi detoxifianti pentru talpi, 10 bucati, Kongdy",
+    "brand": "KONGDY"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Plasturi revitalizare cu extract din bambus, 2 bucati,...",
+    "brand": "WUNDMED"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Depurativo Bios Decottopia, 500 ml, Gianluca Mech",
+    "brand": "GIANLUCA MECH"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Depurativo Antartico Decottopia, 8 plicuri x 30 ml,...",
+    "brand": "GIANLUCA MECH"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Depurativo Antartico Decottopia, 500 ml, Gianluca...",
+    "brand": "GIANLUCA MECH"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Greenbar, 60 capsule, Sanct Bernhard",
+    "brand": "SANCT BERNHARD"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Complex Bio cu 7 plante Phytalgem Dren, 20 fiole,...",
+    "brand": "MARNYS"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Complex Bio cu 7 plante pentru eliminarea toxinelor...",
+    "brand": "MARNYS"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Detoxi Complet, 30 comprimate, Alevia",
+    "brand": "ALEVIA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Colon Cleanser, 90 capsule, Smart Living",
+    "brand": "SMART-LIVING"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Mesteacan Totum Eco, 200 ml, Laboratoires Dietaroma",
+    "brand": "LABORATOIRES DIETAROMA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Chlorella ecologica, 500 mg, 100 comprimate, Alevia",
+    "brand": "ALEVIA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Spirulina Earth Genius, 500 mg, 100 capsule, GNC",
     "brand": "GNC"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Folate, 30 tablete, Vitaxynergy",
-    "brand": "VITAXYNERGY"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Spirulina biologica 500 mg, 180 comprimate, GFR Pharma",
+    "brand": "GFR PHARMA"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Jeleuri Sarcina Justins, 60 bucati, Justin Pharma",
-    "brand": "JUSTIN PHARMA"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Physiuric, 30 plicuri, Solartium",
+    "brand": "SOLARTIUM GROUP"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Composita Mama DHA, 30 capsule + 30 capsule, Establo...",
-    "brand": "ESTABLO PHARMA"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Methyl Pregnancy Multinutrient, 60 capsule, BioCare",
-    "brand": "BIOCARE"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Pachet Natalvit, 60 + 60 comprimate, Hyllan",
-    "brand": "HYLLAN PHARMA"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Folate L-5-MTHF, 1700 mcg DFE, 60 capsule, Seeking...",
-    "brand": "SEEKING HEALTH"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Folate L-5-MTHF, 1000 mcg, 60 comprimate, Seeking...",
-    "brand": "SEEKING HEALTH"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Promatern, 56 comprimate, Gedeon Richter",
-    "brand": "GEDEON RICHTER ROMANIA"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femibion 1 planificare si sarcina, 2x28 comprimate,...",
-    "brand": "DR REDDYS"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Biomicin Urinar Mami si Bebe A29, 30 capsule, Fares",
-    "brand": "FARES"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Acid folic Folate 800 mcg, 30 capsule, Swanson",
-    "brand": "SWANSON HEALTH USA"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/",
-    "denumire": "Femibion 2 sarcina sanatoasa, 30 comprimate filmate...",
-    "brand": "DR REDDYS"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic B9 800, 120 tablete, COS Laboratories",
-    "brand": "COS LABORATORIES"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Femibion 1 planificare si sarcina, 28 comprimate filmate,...",
-    "brand": "DR REDDYS"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Folio, 120 tablete, Steripharm",
-    "brand": "STERIPHARM"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic, 20 capsule, Amniocen",
-    "brand": "AMNIOCEN"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic Natural, 30 capsule, G71, Fares",
-    "brand": "FARES"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid folic 800 mcg, 100 tablete, Bronson Laboratories",
-    "brand": "BRONSON LABORATORIES"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic (253219), 800 mcg, 100 tablete, GNC",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Complete Body Cleansing Program Preventive Nutrition...",
     "brand": "GNC"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Femibion 2 sarcina sanatoasa, 60 comprimate filmate...",
-    "brand": "DR REDDYS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "BodyDynamix Diet Detox Formula pentru detoxifierea...",
+    "brand": "GNC"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Folacid Helathy Life, 120 comprimate, Bioplus Life",
-    "brand": "BIOPLUS LIFE"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Biozheolyth, 60 comprimate, Dacia Plant",
+    "brand": "DACIA PLANT"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid folic metilat Abopholic Meta, 30 pastile, ABOPharma",
-    "brand": "ABOPHARMA"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Program de curatare completa in 7 zile Preventive...",
+    "brand": "GNC"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Prenatal cu multivitamine, 100 capsule, Jamieson",
-    "brand": "JAMIESON"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Program de detoxifiere in 2 zile Total Lean (732217),...",
+    "brand": "GNC"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Natabiol plus, 30 comprimate, MedEq",
-    "brand": "MED-EQ AS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Pulbere de Argila Albastra de Raciu, 1000 g, Romcos",
+    "brand": "ROMCOS IMPEX"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Ladeevit cu fier Ferronyl, 30 capsule, Liconsa",
-    "brand": "LABORATORIOS LICONSA"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Concentrat natural de inulina NIC, 110 g, Siberian...",
+    "brand": "LABORATORIYA SOVREMENNOGO ZDOROV"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic, 400mcg, 120 tablete, Adams Vision",
-    "brand": "ADAMS VISION"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Chlorella Bio, 60 tablete, Bio All Green",
+    "brand": "BIO ALL GREEN"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Pregnaguard, 30 capsule, Evital",
-    "brand": "EVITAL"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Primum Depurativ, 300 ml, Specchiasol",
+    "brand": "SPECCHIASOL"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Emetofit Mami Si Bebe,  D99, 60 comprimate, Fares",
-    "brand": "FARES"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic 400mg Supra Vit, 48 tablete, Kendy",
-    "brand": "KENDY SRL"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Prenatal vitamine si minerale, 60 comprimate, Pharmex",
-    "brand": "PHARMEX"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Supliment alimentar cu acid folic,iod si vitamine...",
-    "brand": "ACTAVIS"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Supliment alimentar cu acid folic,iod si vitamine...",
-    "brand": "ACTAVIS"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Pregvit Zinc, 24 capsule, Pharco",
-    "brand": "PHARCO IMPEX 93"
-  },
-  {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Preg Natal Dha Jarrow Formulas, 30 pliculete, Secom",
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Complete Body Cleanse KIit Solaray, 117.16 g, Secom",
     "brand": "SECOM"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Femibion 2 sarcina si alaptare, 28 comprimate + 28...",
-    "brand": "DR REDDYS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Nutradose detox, 7 fiole, Aesculap",
+    "brand": "AESCULAP"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Femibion 1 sarcina sanatoasa, 30 comprimate, Dr. Reddys",
-    "brand": "DR REDDYS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Fisiodiur Ceai verde, 300 ml, Zuccari",
+    "brand": "ZUCCARI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic 1mg, 45 capsule, Arena Group",
-    "brand": "ARENA GROUP"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Fisiodiur Startup, 300 ml, Zuccari",
+    "brand": "ZUCCARI"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Acid Folic, 50 tablete, Nature's Bounty",
-    "brand": "NATURE'S BOUNTY INC"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Lipotrol, 60 capsule, Obire",
+    "brand": "OBIRE"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Mamavit, 30 comprimate, PharmaSwiss",
-    "brand": "PHARMASWISS"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Eqidetox detoxifiant natural puternic, 36 comprimate,...",
+    "brand": "EQIGENO"
   },
   {
-    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/mama-si-copilul/sarcina/p,2",
-    "denumire": "Prenatal, 30 tablete, Cosmopharm",
-    "brand": "COSMOPHARM"
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Blood Detox, 120 tablete, Indian Herbal",
+    "brand": "INDIAN HERBAL"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Suc pur de Aloe Vera x2, 1000 ml, Zuccari",
+    "brand": "ZUCCARI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Blood Detox, 60 tablete, Indian Herbal",
+    "brand": "INDIAN HERBAL"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Depurex, 20 comprimate, Elidor",
+    "brand": "ELIDOR"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Argila pulbere, 100 g, Favisan",
+    "brand": "FAVISAN"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Aloe Vera, 100 comprimate, Alevia",
+    "brand": "ALEVIA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Filtrum, 10 comprimate, Dr Reddys",
+    "brand": "AVVA RUS"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Aloe Vera D-tox, 1000 ml, Zuccari",
+    "brand": "ZUCCARI"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Plasturi detoxifianti Detox Plasters, 10 bucati, Sinomedi...",
+    "brand": "SINOMEDI INTERNATIONAL CO. LTD"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "ColonClense, 30 capsule, Adams Vision",
+    "brand": "ADAMS VISION"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Argila 700 mg, 30 capsule, Rotta Natura",
+    "brand": "ROTTA NATURA"
+  },
+  {
+    "url": "https://comenzi.farmaciatei.ro/vitamine-si-suplimente/detoxifiere/p,3",
+    "denumire": "Detoxifiant, 200 ml, Dacia Plant",
+    "brand": "DACIA PLANT"
   }
 ]

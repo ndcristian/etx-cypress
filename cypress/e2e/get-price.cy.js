@@ -5,42 +5,10 @@ describe("Verificare produse pe pagini", () => {
     cy.fixture("test-linkuri.json").then((pagini) => {
       pagini.forEach((pagina) => {
         // 2. Navighează la pagină
+        let paginaLevel1 = pagina;
         cy.visit(pagina);
 
-        proceseazaPagina(pagina, produse);
-
-                // verificam daca sunt mai multe pagini
-        let paginationCount;
-        // 1. Cauți containerul principal (sau body) pentru a verifica existența
-        cy.get("body").then(($body) => {
-          // 2. Verifici dacă elementele 'li' din '.pagination' există în pagină
-          if ($body.find(".pagination li").length > 0) {
-            paginationCount = $body.find(".pagination li").length - 1;
-            cy.log("Numărul total de elemente li este: " + paginationCount);
-
-            if (paginationCount >= 2) {
-              // generam un array cu url pentru toate paginile
-              const paginationUrl = [];
-              for (let i = 2;  i <= paginationCount; i++) {
-                paginationUrl.push(pagina + "p," + i);
-              }
-              // procesam pentru fiecare pagina
-              paginationUrl.forEach((pag) => {
-                cy.log("Vizitam pagina::::");
-                cy.log(pag);
-                cy.visit(pag);
-                proceseazaPagina(pag, produse);
-              });
-            }
-
-            // Aici pui logica ta dacă paginația există
-          } else {
-            // 3. Dacă nu există, Cypress nu dă eroare și execută acest bloc
-            cy.log("Paginația nu există pe această pagină. Continuăm...");
-             const paginationCount = 0;
-          }
-        });
-
+        proceseazaPagina(pagina, produse, paginaLevel1, 1);
       });
     });
     // .then(() => {
@@ -49,7 +17,28 @@ describe("Verificare produse pe pagini", () => {
   });
 });
 
-function proceseazaPagina(pagina, produse) {
+function proceseazaPagina(pagina, produse, paginaLevel1, nextPage) {
+  // 2. Navighează la pagină
+  cy.visit(pagina);
+
+  // verificam daca sunt mai multe pagini
+
+  let nextPageUrl = pagina;
+  // 1. Cauți containerul principal (sau body) pentru a verifica existența
+  cy.get("body").then(($body) => {
+    // 2. Verifici dacă elementele 'li' din '.pagination' există în pagină
+    if ($body.find('.pagination a[rel="next"]').length > 0) {
+      nextPage++;
+      nextPageUrl = paginaLevel1 + "p," + nextPage;
+      cy.log("Urmatoarea pagina este: " + nextPage);
+      // Aici pui logica ta dacă paginația există
+    } else {
+      // 3. Dacă nu există, Cypress nu dă eroare și execută acest bloc
+      cy.log("Paginația nu există pe această pagină. Continuăm...");
+      nextPage = 1;
+    }
+  });
+
   // 3. Găsește toate cardurile de pe pagina curentă
   cy.get(".product-item.product-details")
     .each(($card, index) => {
@@ -88,6 +77,9 @@ function proceseazaPagina(pagina, produse) {
     .then(() => {
       // scrie fisierul dupa fiecare ruta vizitata
       cy.writeFile("cypress/fixtures/produse.json", produse);
+      if (nextPage > 1) {
+        proceseazaPagina(nextPageUrl, produse, paginaLevel1, nextPage);
+      }
       // cy.log("pagination count", paginationCount);
     });
 }
